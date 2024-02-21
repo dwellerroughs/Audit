@@ -8,3 +8,4 @@ Code Review Testing Virtual Machines Zero Downtime Deployment Parallel Processin
 Automation Message Queue Firewalls A/B Testing Performance Docker Kafka Stay hungry, stay foolish. API Content Delivery Network
 Success is how high you bounce when you hit bottom. Testing Great things never come from comfort zones. Act as if what you do makes a difference. It does. Automation React Framework If you can dream it, you can do it. Database NLP Monitoring Latency Optimization DevOps DNS Routing Innovation distinguishes between a leader and a follower.
 Cloud Functions Agile Performance Kafka Pull Request Event-driven Architecture Difficult roads often lead to beautiful destinations. Big Data
+Multi-threading Act as if what you do makes a difference. It does. Serverless Cloud Neural Networks Database Simplicity is the ultimate sophistication.
