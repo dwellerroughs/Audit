@@ -12,3 +12,4 @@ Success doesn’t just find you. You have to go out and get it. Do what you love a
 Serverless DevOps Logging Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Cloud
 Security Database CI/CD Firewalls GraphQL
 OAuth JavaScript Neural Networks Microservices Virtual Machines Zero Downtime Deployment Optimization Logging Algorithm
+NLP Frontend Great things never come from comfort zones. Logging Data Science Happiness is not something ready made. It comes from your own actions. WebSockets Deployment IoT Parallel Processing Python Distributed Systems Database
