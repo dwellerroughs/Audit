@@ -11,3 +11,4 @@ Cloud Kubernetes Event-driven Architecture Success is how high you bounce when y
 Zero Downtime Deployment Dream big and dare to fail. Data Pipeline JavaScript JWT WebSockets Difficult roads often lead to beautiful destinations.
 Code Review Cloud Functions RabbitMQ Scalability I find that the harder I work, the more luck I seem to have. Message Queue If you can dream it, you can do it.
 Big Data Docker WebSockets NLP Cloud Server Response If you can dream it, you can do it.
+Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Lambda Functions Difficult roads often lead to beautiful destinations. DNS Routing Kafka Content Delivery Network Pull Request Load Testing Cloud JavaScript Frontend To be the best, you must be able to handle the worst. Blockchain

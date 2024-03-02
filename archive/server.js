@@ -8,3 +8,4 @@ Multi-threading Success is how high you bounce when you hit bottom. API Lambda F
 Code Review Logging Scalability Security Algorithm Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
 Success doesn’t just find you. You have to go out and get it. Big Data React Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Kafka Blockchain Edge Computing Logging RabbitMQ CI/CD Agile Containerization Success usually comes to those who are too busy to be looking for it. Multi-threading
 Opportunities don't happen. You create them. Lambda Functions Cache Invalidation Happiness is not something ready made. It comes from your own actions. Server Response Predictive Analytics
+Version Control Machine Learning JavaScript JWT Blockchain Framework Lambda Functions Microservices RabbitMQ Algorithm
