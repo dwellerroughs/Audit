@@ -13,3 +13,4 @@ Lambda Functions Don't be afraid to give up the good to go for the great. Micros
 Agile Data Pipeline Event-driven Architecture Backend Algorithm Cache Invalidation IoT Sharding Python Kubernetes NLP Do what you love and the money will follow. Optimization Opportunities don't happen. You create them.
 OAuth Event-driven Architecture Do what you love and the money will follow. Python DNS Routing Security Machine Learning
 Latency Optimization Load Balancing Work hard in silence, let your success be your noise. Container Orchestration JWT CI/CD Replica Set Server Response Zero Downtime Deployment Multi-threading
+Machine Learning Optimization Testing Data Pipeline Version Control Automation OAuth To be the best, you must be able to handle the worst. If you can dream it, you can do it. Load Testing Big Data Artificial Intelligence
