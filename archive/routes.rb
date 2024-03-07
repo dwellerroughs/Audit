@@ -11,3 +11,4 @@ Blockchain Python Security Quantum Computing Machine Learning Container Orchestr
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Server Response Big Data Success is how high you bounce when you hit bottom.
 Serverless DevOps Logging Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Cloud
 Security Database CI/CD Firewalls GraphQL
+OAuth JavaScript Neural Networks Microservices Virtual Machines Zero Downtime Deployment Optimization Logging Algorithm
