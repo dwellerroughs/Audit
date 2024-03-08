@@ -14,3 +14,4 @@ Event-driven Architecture DevOps Success usually comes to those who are too busy
 Server Response Code Review Containerization If you can dream it, you can do it. To be the best, you must be able to handle the worst. Monitoring Agile Success is how high you bounce when you hit bottom. IoT Lambda Functions Message Queue Firewalls Cloud Scalability
 Microservices Cache Invalidation Machine Learning To be the best, you must be able to handle the worst. Cloud Blockchain IoT Great things never come from comfort zones. If you can dream it, you can do it.
 Edge Computing Zero Downtime Deployment Data Pipeline Sharding Message Queue Multi-threading Machine Learning Innovation distinguishes between a leader and a follower.
+Cache Invalidation If you can dream it, you can do it. Testing I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Machine Learning UX Optimization Optimization Version Control Content Delivery Network
