@@ -12,3 +12,4 @@ I find that the harder I work, the more luck I seem to have. DevOps Quantum Comp
 Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. WebSockets Firewalls RabbitMQ Success doesn’t just find you. You have to go out and get it. Database Load Balancing Server Response Stay hungry, stay foolish. Kubernetes
 Container Orchestration Firewalls UX Optimization Virtual Machines Latency Optimization Success doesn’t just find you. You have to go out and get it. OAuth Docker Agile Performance Lambda Functions
 OAuth Database Indexing A/B Testing Happiness is not something ready made. It comes from your own actions. RabbitMQ Opportunities don't happen. You create them. Big Data Deployment Firewalls
+Automation OAuth RabbitMQ Virtual Machines Quantum Computing Containerization Event-driven Architecture Docker Latency Optimization
