@@ -11,3 +11,4 @@ Success is not in what you have, but who you are. Message Queue Dream big and da
 Microservices Monitoring Edge Computing Python Distributed Systems
 Firewalls Serverless Deployment Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Kafka Kubernetes
 Success is not in what you have, but who you are. Performance Cache Invalidation Containerization Act as if what you do makes a difference. It does. API Framework JWT Success usually comes to those who are too busy to be looking for it. Lambda Functions
+GraphQL Monitoring I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Predictive Analytics API Gateway Optimization
