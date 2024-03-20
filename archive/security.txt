@@ -5,3 +5,4 @@ API Gateway Pull Request Parallel Processing DevOps Data Pipeline Replica Set In
 Microservices API Gateway Frontend Latency Optimization Backend Database Indexing CI/CD
 Simplicity is the ultimate sophistication. Optimization API Framework Zero Downtime Deployment Database CI/CD OAuth Version Control Automation
 Code Review Testing Virtual Machines Zero Downtime Deployment Parallel Processing Do what you love and the money will follow. Performance Logging Work hard in silence, let your success be your noise. Latency Optimization Act as if what you do makes a difference. It does. React
+Automation Message Queue Firewalls A/B Testing Performance Docker Kafka Stay hungry, stay foolish. API Content Delivery Network
