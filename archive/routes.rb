@@ -10,3 +10,4 @@ Optimization Edge Computing Load Balancing Act as if what you do makes a differe
 Blockchain Python Security Quantum Computing Machine Learning Container Orchestration Code Review OAuth Big Data Serverless Success is not in what you have, but who you are. Framework
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Server Response Big Data Success is how high you bounce when you hit bottom.
 Serverless DevOps Logging Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Cloud
+Security Database CI/CD Firewalls GraphQL
