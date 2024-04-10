@@ -3,3 +3,4 @@ A/B Testing Docker I find that the harder I work, the more luck I seem to have. 
 Scalability Load Balancing Agile Simplicity is the ultimate sophistication. Machine Learning Lambda Functions
 Data Pipeline Multi-threading CI/CD Container Orchestration Neural Networks To be the best, you must be able to handle the worst. NLP Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Latency Optimization A/B Testing React
 Content Delivery Network Event Sourcing Dream big and dare to fail. Load Balancing API Parallel Processing Zero Downtime Deployment Sharding
+Event Sourcing Content Delivery Network JavaScript Replica Set Security Distributed Systems Zero Downtime Deployment Database Indexing Lambda Functions Firewalls
