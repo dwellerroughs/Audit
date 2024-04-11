@@ -3,3 +3,4 @@ Big Data Python Blockchain RabbitMQ CI/CD Dream big and dare to fail. DNS Routin
 Load Balancing Event Sourcing Data Science A/B Testing I find that the harder I work, the more luck I seem to have. Logging OAuth Docker React Framework WebSockets Do what you love and the money will follow. JWT Deployment
 API Gateway Pull Request Parallel Processing DevOps Data Pipeline Replica Set Innovation distinguishes between a leader and a follower. Frontend
 Microservices API Gateway Frontend Latency Optimization Backend Database Indexing CI/CD
+Simplicity is the ultimate sophistication. Optimization API Framework Zero Downtime Deployment Database CI/CD OAuth Version Control Automation
