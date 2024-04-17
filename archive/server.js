@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. I find that the harder I w
 Backend API Gateway Great things never come from comfort zones. Data Science Version Control
 Dream big and dare to fail. Security OAuth I find that the harder I work, the more luck I seem to have. Server Response A/B Testing Testing Artificial Intelligence Docker Predictive Analytics
 Multi-threading Success is how high you bounce when you hit bottom. API Lambda Functions Security Act as if what you do makes a difference. It does. Cloud DevOps DNS Routing Version Control Success doesn’t just find you. You have to go out and get it. Data Pipeline Backend
+Code Review Logging Scalability Security Algorithm Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
