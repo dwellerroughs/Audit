@@ -8,3 +8,4 @@ Automation JavaScript CI/CD Serverless Edge Computing
 API Gateway Neural Networks React Microservices Agile
 Optimization Edge Computing Load Balancing Act as if what you do makes a difference. It does. Artificial Intelligence GraphQL Monitoring Pull Request Lambda Functions Parallel Processing
 Blockchain Python Security Quantum Computing Machine Learning Container Orchestration Code Review OAuth Big Data Serverless Success is not in what you have, but who you are. Framework
+Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Server Response Big Data Success is how high you bounce when you hit bottom.
