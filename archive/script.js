@@ -10,3 +10,4 @@ Logging Data Science Serverless Version Control Automation Security Simplicity i
 Cloud Kubernetes Event-driven Architecture Success is how high you bounce when you hit bottom. Artificial Intelligence Sharding A/B Testing Do what you love and the money will follow. UX Optimization Lambda Functions Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Firewalls
 Zero Downtime Deployment Dream big and dare to fail. Data Pipeline JavaScript JWT WebSockets Difficult roads often lead to beautiful destinations.
 Code Review Cloud Functions RabbitMQ Scalability I find that the harder I work, the more luck I seem to have. Message Queue If you can dream it, you can do it.
+Big Data Docker WebSockets NLP Cloud Server Response If you can dream it, you can do it.

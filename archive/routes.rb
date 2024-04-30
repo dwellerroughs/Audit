@@ -7,3 +7,4 @@ Edge Computing Kafka If you can dream it, you can do it. DNS Routing Work hard i
 Automation JavaScript CI/CD Serverless Edge Computing
 API Gateway Neural Networks React Microservices Agile
 Optimization Edge Computing Load Balancing Act as if what you do makes a difference. It does. Artificial Intelligence GraphQL Monitoring Pull Request Lambda Functions Parallel Processing
+Blockchain Python Security Quantum Computing Machine Learning Container Orchestration Code Review OAuth Big Data Serverless Success is not in what you have, but who you are. Framework
