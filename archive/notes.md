@@ -10,3 +10,4 @@ Latency Optimization Docker Pull Request Cloud Act as if what you do makes a dif
 Microservices Container Orchestration Predictive Analytics Work hard in silence, let your success be your noise. Optimization Automation
 Blockchain Automation Firewalls Database Artificial Intelligence Testing DNS Routing Kubernetes Python Great things never come from comfort zones. Load Testing Optimization Message Queue Version Control Data Science
 Monitoring Edge Computing Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Database
+JavaScript Predictive Analytics Agile Code Review Security DNS Routing Distributed Systems Pull Request Opportunities don't happen. You create them. Parallel Processing Don't be afraid to give up the good to go for the great.
