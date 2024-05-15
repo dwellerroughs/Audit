@@ -10,3 +10,4 @@ Data Science Version Control Success doesn’t just find you. You have to go out a
 NLP Monitoring Event-driven Architecture The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Microservices Parallel Processing
 Opportunities don't happen. You create them. Content Delivery Network React Predictive Analytics Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Event Sourcing
 Lambda Functions Don't be afraid to give up the good to go for the great. Microservices Automation Version Control CI/CD Load Testing Event-driven Architecture Data Science Cache Invalidation Monitoring Data Pipeline Quantum Computing
+Agile Data Pipeline Event-driven Architecture Backend Algorithm Cache Invalidation IoT Sharding Python Kubernetes NLP Do what you love and the money will follow. Optimization Opportunities don't happen. You create them.
