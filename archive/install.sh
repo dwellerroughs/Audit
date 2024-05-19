@@ -9,3 +9,4 @@ OAuth Lambda Functions Success is how high you bounce when you hit bottom. WebSo
 Data Science Version Control Success doesn’t just find you. You have to go out and get it. Predictive Analytics Content Delivery Network WebSockets Load Balancing Message Queue RabbitMQ Backend Great things never come from comfort zones. Zero Downtime Deployment
 NLP Monitoring Event-driven Architecture The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Microservices Parallel Processing
 Opportunities don't happen. You create them. Content Delivery Network React Predictive Analytics Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Event Sourcing
+Lambda Functions Don't be afraid to give up the good to go for the great. Microservices Automation Version Control CI/CD Load Testing Event-driven Architecture Data Science Cache Invalidation Monitoring Data Pipeline Quantum Computing
