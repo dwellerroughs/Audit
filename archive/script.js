@@ -8,3 +8,4 @@ Simplicity is the ultimate sophistication. Pull Request Testing Kafka Zero Downt
 If you can dream it, you can do it. JWT Monitoring Success doesn’t just find you. You have to go out and get it. Python
 Logging Data Science Serverless Version Control Automation Security Simplicity is the ultimate sophistication. Content Delivery Network Scalability Cloud Functions The only way to do great work is to love what you do. Framework
 Cloud Kubernetes Event-driven Architecture Success is how high you bounce when you hit bottom. Artificial Intelligence Sharding A/B Testing Do what you love and the money will follow. UX Optimization Lambda Functions Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Firewalls
+Zero Downtime Deployment Dream big and dare to fail. Data Pipeline JavaScript JWT WebSockets Difficult roads often lead to beautiful destinations.
