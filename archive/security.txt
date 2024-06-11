@@ -2,3 +2,4 @@ Happiness is not something ready made. It comes from your own actions. Logging D
 Big Data Python Blockchain RabbitMQ CI/CD Dream big and dare to fail. DNS Routing To be the best, you must be able to handle the worst. Cache Invalidation Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Optimization A/B Testing
 Load Balancing Event Sourcing Data Science A/B Testing I find that the harder I work, the more luck I seem to have. Logging OAuth Docker React Framework WebSockets Do what you love and the money will follow. JWT Deployment
 API Gateway Pull Request Parallel Processing DevOps Data Pipeline Replica Set Innovation distinguishes between a leader and a follower. Frontend
+Microservices API Gateway Frontend Latency Optimization Backend Database Indexing CI/CD
