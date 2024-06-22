@@ -10,3 +10,4 @@ JWT Don't be afraid to give up the good to go for the great. Kubernetes Replica 
 Pull Request CI/CD Cloud Functions Deployment If you can dream it, you can do it. Machine Learning Event Sourcing
 RabbitMQ Logging Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Parallel Processing Testing Automation Security Virtual Machines
 Replica Set Microservices Big Data UX Optimization I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Optimization Agile
+Security JavaScript Optimization Database Indexing Lambda Functions Automation UX Optimization GraphQL API Gateway Innovation distinguishes between a leader and a follower.
