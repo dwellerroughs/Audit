@@ -9,3 +9,4 @@ Load Balancing Version Control Artificial Intelligence JWT Innovation distinguis
 Data Pipeline Latency Optimization Multi-threading IoT Don't be afraid to give up the good to go for the great. Kafka Container Orchestration JavaScript API DevOps OAuth Neural Networks Automation Artificial Intelligence A/B Testing
 Deployment Simplicity is the ultimate sophistication. Backend Work hard in silence, let your success be your noise. Load Testing Event-driven Architecture Quantum Computing Logging Kubernetes DNS Routing Success is not in what you have, but who you are. Blockchain GraphQL
 I find that the harder I work, the more luck I seem to have. Quantum Computing Happiness is not something ready made. It comes from your own actions. Lambda Functions NLP
+GraphQL Lambda Functions Data Science Latency Optimization Deployment DNS Routing Algorithm OAuth JWT
