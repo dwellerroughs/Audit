@@ -8,3 +8,4 @@ CI/CD Docker Act as if what you do makes a difference. It does. Predictive Analy
 GraphQL Optimization Content Delivery Network Message Queue DevOps Docker Success is how high you bounce when you hit bottom.
 Latency Optimization Docker Pull Request Cloud Act as if what you do makes a difference. It does. Virtual Machines I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Load Testing Message Queue Data Science Database Indexing CI/CD IoT
 Microservices Container Orchestration Predictive Analytics Work hard in silence, let your success be your noise. Optimization Automation
+Blockchain Automation Firewalls Database Artificial Intelligence Testing DNS Routing Kubernetes Python Great things never come from comfort zones. Load Testing Optimization Message Queue Version Control Data Science
