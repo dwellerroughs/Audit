@@ -6,3 +6,4 @@ RabbitMQ Data Science Load Balancing Deployment Framework Pull Request I find th
 Lambda Functions Predictive Analytics Performance Success usually comes to those who are too busy to be looking for it. Logging Serverless NLP Virtual Machines Agile Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Optimization
 Deployment Innovation distinguishes between a leader and a follower. Cache Invalidation Zero Downtime Deployment Serverless Firewalls Difficult roads often lead to beautiful destinations. UX Optimization Data Pipeline OAuth GraphQL
 Monitoring Quantum Computing Frontend Containerization I find that the harder I work, the more luck I seem to have. JWT Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations.
+JWT Don't be afraid to give up the good to go for the great. Kubernetes Replica Set Cloud Functions Optimization
