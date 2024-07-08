@@ -6,3 +6,4 @@ Predictive Analytics A/B Testing Edge Computing Difficult roads often lead to be
 Sharding A/B Testing Optimization Kafka UX Optimization Testing Containerization Edge Computing Load Testing Event-driven Architecture
 Stay hungry, stay foolish. A/B Testing Simplicity is the ultimate sophistication. Security Difficult roads often lead to beautiful destinations. Pull Request CI/CD Virtual Machines Latency Optimization Scalability UX Optimization Database Indexing Version Control Containerization Work hard in silence, let your success be your noise.
 Kubernetes If you can dream it, you can do it. Performance Content Delivery Network Database Indexing Multi-threading
+Big Data Backend Microservices API Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Lambda Functions

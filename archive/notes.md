@@ -7,3 +7,4 @@ Deployment Python Zero Downtime Deployment Content Delivery Network Event Sourci
 CI/CD Docker Act as if what you do makes a difference. It does. Predictive Analytics Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Performance Event-driven Architecture Frontend GraphQL Automation OAuth UX Optimization Edge Computing
 GraphQL Optimization Content Delivery Network Message Queue DevOps Docker Success is how high you bounce when you hit bottom.
 Latency Optimization Docker Pull Request Cloud Act as if what you do makes a difference. It does. Virtual Machines I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Load Testing Message Queue Data Science Database Indexing CI/CD IoT
+Microservices Container Orchestration Predictive Analytics Work hard in silence, let your success be your noise. Optimization Automation

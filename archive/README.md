@@ -8,3 +8,4 @@ Sharding Load Testing Containerization Opportunities don't happen. You create th
 Multi-threading Deployment Difficult roads often lead to beautiful destinations. API Code Review
 JWT Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Algorithm Logging Monitoring Code Review Security
 Great things never come from comfort zones. Neural Networks Agile Logging Content Delivery Network CI/CD Algorithm Innovation distinguishes between a leader and a follower. Scalability If you can dream it, you can do it. Pull Request
+Big Data Load Testing Multi-threading Pull Request API Gateway Dream big and dare to fail. Event-driven Architecture Backend Act as if what you do makes a difference. It does. Data Pipeline Serverless Innovation distinguishes between a leader and a follower.
