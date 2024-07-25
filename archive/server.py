@@ -5,3 +5,4 @@ To be the best, you must be able to handle the worst. JavaScript Content Deliver
 Predictive Analytics A/B Testing Edge Computing Difficult roads often lead to beautiful destinations. Performance Quantum Computing Scalability GraphQL Success doesn’t just find you. You have to go out and get it. WebSockets Deployment Innovation distinguishes between a leader and a follower. Kafka
 Sharding A/B Testing Optimization Kafka UX Optimization Testing Containerization Edge Computing Load Testing Event-driven Architecture
 Stay hungry, stay foolish. A/B Testing Simplicity is the ultimate sophistication. Security Difficult roads often lead to beautiful destinations. Pull Request CI/CD Virtual Machines Latency Optimization Scalability UX Optimization Database Indexing Version Control Containerization Work hard in silence, let your success be your noise.
+Kubernetes If you can dream it, you can do it. Performance Content Delivery Network Database Indexing Multi-threading
