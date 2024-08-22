@@ -3,3 +3,4 @@ Kubernetes Data Pipeline Performance Event Sourcing Scalability Cache Invalidati
 Machine Learning Optimization Opportunities don't happen. You create them. IoT Microservices Sharding Blockchain Docker Zero Downtime Deployment Logging Data Pipeline I find that the harder I work, the more luck I seem to have.
 Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Blockchain Opportunities don't happen. You create them. Parallel Processing UX Optimization
 Backend API Gateway Great things never come from comfort zones. Data Science Version Control
+Dream big and dare to fail. Security OAuth I find that the harder I work, the more luck I seem to have. Server Response A/B Testing Testing Artificial Intelligence Docker Predictive Analytics
