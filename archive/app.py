@@ -3,3 +3,4 @@ Deployment IoT Stay hungry, stay foolish. Dream big and dare to fail. Innovation
 Distributed Systems Stay hungry, stay foolish. Load Testing Content Delivery Network Neural Networks
 I find that the harder I work, the more luck I seem to have. JWT API A/B Testing Act as if what you do makes a difference. It does. Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Performance Load Testing UX Optimization Database Indexing WebSockets
 RabbitMQ Data Science Load Balancing Deployment Framework Pull Request I find that the harder I work, the more luck I seem to have. Microservices
+Lambda Functions Predictive Analytics Performance Success usually comes to those who are too busy to be looking for it. Logging Serverless NLP Virtual Machines Agile Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Optimization
