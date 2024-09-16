@@ -6,3 +6,4 @@ GraphQL Python Simplicity is the ultimate sophistication. Agile Kafka API Backen
 Edge Computing Kafka If you can dream it, you can do it. DNS Routing Work hard in silence, let your success be your noise. Cloud Distributed Systems NLP Firewalls IoT Lambda Functions Data Pipeline Content Delivery Network Performance Replica Set
 Automation JavaScript CI/CD Serverless Edge Computing
 API Gateway Neural Networks React Microservices Agile
+Optimization Edge Computing Load Balancing Act as if what you do makes a difference. It does. Artificial Intelligence GraphQL Monitoring Pull Request Lambda Functions Parallel Processing
