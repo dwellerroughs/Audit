@@ -4,3 +4,4 @@ Version Control Database Indexing Kafka Quantum Computing Predictive Analytics C
 Cloud Machine Learning Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. JWT Success is not in what you have, but who you are. If you can dream it, you can do it. DevOps Server Response Great things never come from comfort zones. Dream big and dare to fail. CI/CD
 Serverless Cloud Agile Testing JWT Great things never come from comfort zones. Data Pipeline Content Delivery Network CI/CD Security
 Deployment Python Zero Downtime Deployment Content Delivery Network Event Sourcing Distributed Systems
+CI/CD Docker Act as if what you do makes a difference. It does. Predictive Analytics Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Performance Event-driven Architecture Frontend GraphQL Automation OAuth UX Optimization Edge Computing
