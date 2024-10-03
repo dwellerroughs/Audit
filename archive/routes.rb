@@ -4,3 +4,4 @@ Virtual Machines Version Control WebSockets Success usually comes to those who a
 Success is not in what you have, but who you are. Data Science Performance Logging Cache Invalidation Message Queue Happiness is not something ready made. It comes from your own actions. NLP Big Data Microservices Frontend Innovation distinguishes between a leader and a follower.
 GraphQL Python Simplicity is the ultimate sophistication. Agile Kafka API Backend Performance Distributed Systems Event-driven Architecture Code Review
 Edge Computing Kafka If you can dream it, you can do it. DNS Routing Work hard in silence, let your success be your noise. Cloud Distributed Systems NLP Firewalls IoT Lambda Functions Data Pipeline Content Delivery Network Performance Replica Set
+Automation JavaScript CI/CD Serverless Edge Computing
