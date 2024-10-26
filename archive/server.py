@@ -2,3 +2,4 @@ Serverless Testing Containerization Quantum Computing Machine Learning Cloud Fun
 Server Response Distributed Systems React Great things never come from comfort zones. OAuth Kubernetes Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Version Control DevOps
 IoT Multi-threading Kafka API OAuth
 To be the best, you must be able to handle the worst. JavaScript Content Delivery Network I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment GraphQL Neural Networks Backend A/B Testing Quantum Computing Distributed Systems Algorithm Database If you can dream it, you can do it. Code Review
+Predictive Analytics A/B Testing Edge Computing Difficult roads often lead to beautiful destinations. Performance Quantum Computing Scalability GraphQL Success doesn’t just find you. You have to go out and get it. WebSockets Deployment Innovation distinguishes between a leader and a follower. Kafka
