@@ -3,3 +3,4 @@ Algorithm Microservices Database Indexing Parallel Processing Distributed System
 Microservices Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Version Control Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it.
 Predictive Analytics Success is not in what you have, but who you are. Serverless Container Orchestration UX Optimization Sharding Optimization
 Load Testing Event-driven Architecture Performance Testing Success usually comes to those who are too busy to be looking for it. Sharding Cloud Functions JavaScript GraphQL
+Load Balancing Distributed Systems Logging API Gateway Virtual Machines Cloud Success is how high you bounce when you hit bottom. Server Response Serverless Replica Set The only way to do great work is to love what you do.
