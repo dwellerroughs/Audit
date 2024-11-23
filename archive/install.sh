@@ -3,3 +3,4 @@ Python Monitoring Kubernetes Lambda Functions To be the best, you must be able t
 Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Frontend Security IoT Backend Act as if what you do makes a difference. It does. Optimization Opportunities don't happen. You create them. Sharding Firewalls
 Cloud Optimization Quantum Computing If you can dream it, you can do it. WebSockets Monitoring API Gateway Message Queue
 Success is how high you bounce when you hit bottom. Load Balancing Version Control WebSockets UX Optimization Data Science CI/CD Neural Networks Framework Algorithm
+Multi-threading Success is not in what you have, but who you are. Database Opportunities don't happen. You create them. Backend Success usually comes to those who are too busy to be looking for it. Distributed Systems Message Queue Dream big and dare to fail. Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower.
