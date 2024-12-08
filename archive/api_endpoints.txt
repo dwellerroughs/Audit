@@ -1,1 +1,2 @@
 Load Testing Agile Latency Optimization RabbitMQ Frontend Data Science Big Data Cache Invalidation Backend Docker API Gateway
+Serverless Message Queue Cloud Functions API OAuth Load Balancing Big Data Algorithm Predictive Analytics Success usually comes to those who are too busy to be looking for it. Lambda Functions
