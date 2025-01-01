@@ -1,0 +1,1 @@
+Do what you love and the money will follow. Dream big and dare to fail. Neural Networks Cloud Data Pipeline Serverless Automation React Framework I find that the harder I work, the more luck I seem to have.
