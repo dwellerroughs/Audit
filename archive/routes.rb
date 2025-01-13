@@ -1,1 +1,2 @@
 Optimization NLP The only way to do great work is to love what you do. React Code Review Lambda Functions Event Sourcing Containerization Monitoring Kafka Neural Networks Logging Quantum Computing Testing Database
+Code Review Big Data NLP Docker Data Science Sharding Automation Latency Optimization Container Orchestration Difficult roads often lead to beautiful destinations. Python Lambda Functions The only way to do great work is to love what you do.
