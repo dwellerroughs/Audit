@@ -1,3 +1,4 @@
 DevOps Work hard in silence, let your success be your noise. Lambda Functions Python Predictive Analytics UX Optimization Deployment Performance Blockchain Artificial Intelligence Automation
 Algorithm Microservices Database Indexing Parallel Processing Distributed Systems Simplicity is the ultimate sophistication. Great things never come from comfort zones. Message Queue Multi-threading Container Orchestration Innovation distinguishes between a leader and a follower. Monitoring
 Microservices Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Version Control Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it.
+Predictive Analytics Success is not in what you have, but who you are. Serverless Container Orchestration UX Optimization Sharding Optimization
